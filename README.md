@@ -164,8 +164,8 @@ This project is developed for educational purposes and learning web development 
 
 ## 👨‍💻 Author
 Group project fromm:
-Muhammad Umer
-Taha Ali
+Muhammad Umer |
+Taha Ali | 
 Armaghan khan
 
 Developed as a Library Management System project using HTML, CSS, and JavaScript.
