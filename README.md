@@ -142,19 +142,7 @@ Password: armaghan123
 
 ---
 
-## 🎯 Future Improvements
 
-- Database Integration (MySQL/MongoDB)
-- Backend using Node.js or PHP
-- Online Payment for Fines
-- Email Notifications
-- Barcode Scanner
-- QR Code Support
-- Reservation System
-- Book Recommendations
-- API Integration
-
----
 
 ## 📄 License
 
